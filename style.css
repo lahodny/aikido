@@ -1,0 +1,73 @@
+p{
+    font-size: 25px;
+  }
+
+h3{
+    font-size: 27px;
+  }
+
+h1{
+  margin-top: 10px;
+}
+
+#list{
+  font-size: 20px;
+}
+
+form{
+  font-size: 20px;
+}
+
+::placeholder{
+  font-size: 20px;
+}
+
+#narozeni{
+  font-size: 20px;
+}
+
+#form{
+  font-size: 20px;
+}
+
+#button{
+  font-size: 20px;
+}
+
+#six{
+  background-color: white;
+}
+
+#five{
+  background-color: yellow;
+}
+
+#four{
+  background-color: orange;
+}
+
+#three{
+  background-color: green;
+}
+
+#two{
+  background-color: blue;
+}
+
+#one{
+  background-color: brown;
+}
+
+#dan{
+  background-color: black;
+}
+
+table{
+  width: 100%; 
+}
+
+td{
+  font-size: 19px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
